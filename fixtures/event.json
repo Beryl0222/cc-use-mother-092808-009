@@ -1,0 +1,8 @@
+{
+  "event_id": "092802-009-sample",
+  "event_type": "SOURCE_CONFIRMED",
+  "subject_id": "subject-009",
+  "occurred_at": "2026-09-28T10:00:00+08:00",
+  "version": 1,
+  "source": "confirmed-partner"
+}
